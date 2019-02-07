@@ -1,0 +1,91 @@
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 110
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:34:55 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 110
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:35:15 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 111
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:36:24 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:37:16 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:38:22 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:40:41 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:53:01 PM
+
+System.ArgumentOutOfRangeException: startIndex must be less than length of string.
+Parameter name: startIndex
+   at System.String.Remove(Int32 startIndex)
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 111
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:55:41 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 111
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:57:15 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 111
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 12:58:37 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 1:01:35 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 1:05:30 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 1:10:30 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 1:12:15 PM
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HTTPServer.Request.LoadHeaderLines() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 112
+   at HTTPServer.Request.ParseRequest() in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Request.cs:line 60
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 92   12/10/2018 1:14:53 PM
+
+System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at HTTPServer.Server.GetRedirectionPagePathIFExist(String relativePath) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 146
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 105   12/10/2018 1:17:02 PM
+
+System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at HTTPServer.Server.GetRedirectionPagePathIFExist(String relativePath) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 146
+   at HTTPServer.Server.HandleRequest(Request request) in E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\Server.cs:line 105   12/10/2018 1:19:05 PM
+

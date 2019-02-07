@@ -7,3 +7,8 @@ E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\bin\Debug\HT
 E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\bin\Debug\HTTPServer.pdb
 E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\obj\x86\Debug\HTTPServer.exe
 E:\College\Network\HTTP\HTTP\project\Template[2018-2019]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\College\Network\HTTP\HTTP\NetworkProject\project\Proj\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\College\Network\HTTP\HTTP\NetworkProject\project\Proj\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\College\Network\HTTP\HTTP\NetworkProject\project\Proj\HTTPServer\bin\Debug\HTTPServer.exe
+E:\College\Network\HTTP\HTTP\NetworkProject\project\Proj\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\College\Network\HTTP\HTTP\NetworkProject\project\Proj\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
